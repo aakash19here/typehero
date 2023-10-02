@@ -20,7 +20,7 @@ export const contributors = [
         "received_events_url": "https://api.github.com/users/bautistaaa/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 169
+        "contributions": 172
     },
     {
         "login": "Hacksore",
@@ -41,7 +41,7 @@ export const contributors = [
         "received_events_url": "https://api.github.com/users/Hacksore/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 79
+        "contributions": 83
     },
     {
         "login": "PickleNik",
@@ -62,7 +62,7 @@ export const contributors = [
         "received_events_url": "https://api.github.com/users/PickleNik/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 78
+        "contributions": 80
     },
     {
         "login": "ggrandi",
@@ -191,6 +191,27 @@ export const contributors = [
         "contributions": 11
     },
     {
+        "login": "maxdemaio",
+        "id": 44373521,
+        "node_id": "MDQ6VXNlcjQ0MzczNTIx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44373521?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/maxdemaio",
+        "html_url": "https://github.com/maxdemaio",
+        "followers_url": "https://api.github.com/users/maxdemaio/followers",
+        "following_url": "https://api.github.com/users/maxdemaio/following{/other_user}",
+        "gists_url": "https://api.github.com/users/maxdemaio/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/maxdemaio/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/maxdemaio/subscriptions",
+        "organizations_url": "https://api.github.com/users/maxdemaio/orgs",
+        "repos_url": "https://api.github.com/users/maxdemaio/repos",
+        "events_url": "https://api.github.com/users/maxdemaio/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/maxdemaio/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 11
+    },
+    {
         "login": "anthonyshew",
         "id": 35677084,
         "node_id": "MDQ6VXNlcjM1Njc3MDg0",
@@ -233,27 +254,6 @@ export const contributors = [
         "contributions": 9
     },
     {
-        "login": "maxdemaio",
-        "id": 44373521,
-        "node_id": "MDQ6VXNlcjQ0MzczNTIx",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44373521?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/maxdemaio",
-        "html_url": "https://github.com/maxdemaio",
-        "followers_url": "https://api.github.com/users/maxdemaio/followers",
-        "following_url": "https://api.github.com/users/maxdemaio/following{/other_user}",
-        "gists_url": "https://api.github.com/users/maxdemaio/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/maxdemaio/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/maxdemaio/subscriptions",
-        "organizations_url": "https://api.github.com/users/maxdemaio/orgs",
-        "repos_url": "https://api.github.com/users/maxdemaio/repos",
-        "events_url": "https://api.github.com/users/maxdemaio/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/maxdemaio/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 9
-    },
-    {
         "login": "falcon-head",
         "id": 32938743,
         "node_id": "MDQ6VXNlcjMyOTM4NzQz",
@@ -272,7 +272,7 @@ export const contributors = [
         "received_events_url": "https://api.github.com/users/falcon-head/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 8
+        "contributions": 9
     },
     {
         "login": "basokant",
@@ -359,6 +359,27 @@ export const contributors = [
         "contributions": 5
     },
     {
+        "login": "aakash19here",
+        "id": 86520455,
+        "node_id": "MDQ6VXNlcjg2NTIwNDU1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86520455?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/aakash19here",
+        "html_url": "https://github.com/aakash19here",
+        "followers_url": "https://api.github.com/users/aakash19here/followers",
+        "following_url": "https://api.github.com/users/aakash19here/following{/other_user}",
+        "gists_url": "https://api.github.com/users/aakash19here/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/aakash19here/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/aakash19here/subscriptions",
+        "organizations_url": "https://api.github.com/users/aakash19here/orgs",
+        "repos_url": "https://api.github.com/users/aakash19here/repos",
+        "events_url": "https://api.github.com/users/aakash19here/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/aakash19here/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 4
+    },
+    {
         "login": "emalineg",
         "id": 93755103,
         "node_id": "U_kgDOBZaW3w",
@@ -399,27 +420,6 @@ export const contributors = [
         "type": "User",
         "site_admin": false,
         "contributions": 4
-    },
-    {
-        "login": "aakash19here",
-        "id": 86520455,
-        "node_id": "MDQ6VXNlcjg2NTIwNDU1",
-        "avatar_url": "https://avatars.githubusercontent.com/u/86520455?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/aakash19here",
-        "html_url": "https://github.com/aakash19here",
-        "followers_url": "https://api.github.com/users/aakash19here/followers",
-        "following_url": "https://api.github.com/users/aakash19here/following{/other_user}",
-        "gists_url": "https://api.github.com/users/aakash19here/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/aakash19here/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/aakash19here/subscriptions",
-        "organizations_url": "https://api.github.com/users/aakash19here/orgs",
-        "repos_url": "https://api.github.com/users/aakash19here/repos",
-        "events_url": "https://api.github.com/users/aakash19here/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/aakash19here/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 3
     },
     {
         "login": "cosmiclasagnadev",
@@ -527,27 +527,6 @@ export const contributors = [
         "contributions": 3
     },
     {
-        "login": "Rand0mLetters",
-        "id": 108293579,
-        "node_id": "U_kgDOBnRtyw",
-        "avatar_url": "https://avatars.githubusercontent.com/u/108293579?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Rand0mLetters",
-        "html_url": "https://github.com/Rand0mLetters",
-        "followers_url": "https://api.github.com/users/Rand0mLetters/followers",
-        "following_url": "https://api.github.com/users/Rand0mLetters/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Rand0mLetters/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Rand0mLetters/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Rand0mLetters/subscriptions",
-        "organizations_url": "https://api.github.com/users/Rand0mLetters/orgs",
-        "repos_url": "https://api.github.com/users/Rand0mLetters/repos",
-        "events_url": "https://api.github.com/users/Rand0mLetters/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Rand0mLetters/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 3
-    },
-    {
         "login": "vivekKumarSinghH",
         "id": 72158561,
         "node_id": "MDQ6VXNlcjcyMTU4NTYx",
@@ -588,6 +567,27 @@ export const contributors = [
         "type": "User",
         "site_admin": false,
         "contributions": 3
+    },
+    {
+        "login": "odicho",
+        "id": 53154523,
+        "node_id": "MDQ6VXNlcjUzMTU0NTIz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/53154523?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/odicho",
+        "html_url": "https://github.com/odicho",
+        "followers_url": "https://api.github.com/users/odicho/followers",
+        "following_url": "https://api.github.com/users/odicho/following{/other_user}",
+        "gists_url": "https://api.github.com/users/odicho/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/odicho/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/odicho/subscriptions",
+        "organizations_url": "https://api.github.com/users/odicho/orgs",
+        "repos_url": "https://api.github.com/users/odicho/repos",
+        "events_url": "https://api.github.com/users/odicho/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/odicho/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 2
     },
     {
         "login": "amorriscode",
